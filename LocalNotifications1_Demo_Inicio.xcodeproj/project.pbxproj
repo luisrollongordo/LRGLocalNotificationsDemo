@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		136A71391E8912FA006FC7C7 /* zelda.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 136A71381E8912FA006FC7C7 /* zelda.jpg */; };
 		13F30AB81E8424DF00F6C217 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F30AB71E8424DF00F6C217 /* AppDelegate.swift */; };
 		13F30ABA1E8424DF00F6C217 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F30AB91E8424DF00F6C217 /* ViewController.swift */; };
 		13F30ABD1E8424DF00F6C217 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 13F30ABB1E8424DF00F6C217 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		136A71381E8912FA006FC7C7 /* zelda.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = zelda.jpg; sourceTree = "<group>"; };
 		13F30AB41E8424DF00F6C217 /* LocalNotifications1_Demo_Inicio.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LocalNotifications1_Demo_Inicio.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13F30AB71E8424DF00F6C217 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		13F30AB91E8424DF00F6C217 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				13F30AB71E8424DF00F6C217 /* AppDelegate.swift */,
 				13F30AB91E8424DF00F6C217 /* ViewController.swift */,
 				13F30ABB1E8424DF00F6C217 /* Main.storyboard */,
+				136A71381E8912FA006FC7C7 /* zelda.jpg */,
 				13F30ABE1E8424DF00F6C217 /* Assets.xcassets */,
 				13F30AC01E8424DF00F6C217 /* LaunchScreen.storyboard */,
 				13F30AC31E8424DF00F6C217 /* Info.plist */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				136A71391E8912FA006FC7C7 /* zelda.jpg in Resources */,
 				13F30AC21E8424DF00F6C217 /* LaunchScreen.storyboard in Resources */,
 				13F30ABF1E8424DF00F6C217 /* Assets.xcassets in Resources */,
 				13F30ABD1E8424DF00F6C217 /* Main.storyboard in Resources */,
@@ -297,6 +301,7 @@
 				13F30AC81E8424DF00F6C217 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
